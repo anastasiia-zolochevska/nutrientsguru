@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/productName3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dip"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:textColor="#ff260b7d" />
+
+
+    <TextView
+        android:id="@+id/productName2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dip"
+        android:padding="5dp"
+        android:visibility="gone"
+        android:textColor="#ff660009" />
+
+
+    <TextView
+        android:id="@+id/productName1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dip"
+        android:padding="5dp"
+        android:textColor="#ff050505" />
+
+    <ExpandableListView
+        android:id="@+id/productComparisonTable"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:cacheColorHint="#00000000" />
+
+</LinearLayout>
+<!-- From: file:/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_comparison.xml -->

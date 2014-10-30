@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res" >
+            <file
+                name="arrow"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/arrow.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bar_bg"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/bar_bg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="gradient_bg"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/gradient_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="gradient_bg_hover"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/gradient_bg_hover.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="scales"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/scales.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable-xhdpi/arrow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="bar_bg"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable-xhdpi/bar_bg.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="nutrient_item"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/nutrient_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_details"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_list"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_list_item"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_activity_product_comparison" >Product Comparison
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_product_details" >Product Details
+                </string>
+                <string name="app_name" >Nutrients Guru
+                </string>
+
+                <string-array name="menuItems" >
+                    <item>
+Search Product
+                    </item>
+                    <item>
+Search Nutrients
+                    </item>
+                </string-array>
+
+                <string name="drawer_open" >Open navigation drawer
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="drawer_close" >Close navigation drawer
+                </string>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+
+                </style>
+
+                <style
+                    name="Widget.MyApp.ActionBar"
+                    parent="@android:style/Widget.ActionBar" >
+                    <item name="android:background">
+#ff264219
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="nutrient_group"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/nutrient_group.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_comparison"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_comparison.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_drawer"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/ic_drawer.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="product_list"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/menu/product_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="product_details"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/menu/product_details.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="calc"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/calc.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="measurment"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/measurment.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="measurment_spinner_item"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/measurment_spinner_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="rounded_edit_text"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/drawable/rounded_edit_text.xml"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/debug/res" />
+    </dataSet>
+
+</merger>

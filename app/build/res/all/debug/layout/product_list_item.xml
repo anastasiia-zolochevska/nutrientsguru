@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+
+
+    <CheckBox
+        android:id="@+id/select_product_checkbox"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:focusable="false"
+        />
+
+
+    <TextView
+        android:id="@+id/list_item_header_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff264219"
+        android:typeface="sans"
+        android:textSize="15dip"
+        android:layout_marginRight="3dip"
+        android:text="Butter, salted"
+        android:layout_marginLeft="10dip"
+        android:layout_toRightOf="@id/select_product_checkbox"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/list_item_ndb_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/list_item_header_text"
+        android:layout_alignStart="@id/list_item_header_text"
+        android:textColor="#ff3b7632"
+        android:textSize="10dip"
+        android:text="10137"
+        android:layout_marginTop="1dip"
+        />
+
+    <TextView
+        android:id="@+id/list_item_group_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Egg Products"
+        android:layout_below="@id/list_item_header_text"
+        android:layout_toRightOf="@id/list_item_ndb_text"
+        android:textColor="#ff3b7632"
+        android:textSize="10dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="1dip"
+     />
+
+    <ImageView
+        android:id="@+id/arrow"
+        android:background="@drawable/arrow"
+        android:layout_width="20dip"
+        android:layout_height="20dip"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="2dp"
+        android:layout_centerVertical="true" />
+
+
+</RelativeLayout>
+
+<!-- From: file:/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/product_list_item.xml -->

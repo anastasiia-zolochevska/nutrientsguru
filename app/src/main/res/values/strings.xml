@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nutrients Guru</string>
+    <string name="title_activity_product_details">Product Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_product_comparison">Product Comparison</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string-array name="menuItems">
+        <item>Search Product</item>
+        <item>Search Nutrients</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>

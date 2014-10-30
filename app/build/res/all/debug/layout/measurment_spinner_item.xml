@@ -1,0 +1,11 @@
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:text="New Text"
+    android:textSize="17dip"
+    android:textColor="#ff282929"
+    android:background="#ffc8c8c8"
+    android:layout_marginBottom="3dp"
+    android:layout_margin="3dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView"></TextView><!-- From: file:/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/res/layout/measurment_spinner_item.xml -->

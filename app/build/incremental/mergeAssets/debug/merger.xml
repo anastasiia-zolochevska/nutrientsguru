@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/assets" >
+            <file
+                name="usda4"
+                path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/main/assets/usda4" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Anastasiia/Projects/Akvelon/Study/Android/NutrientsGuru/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
